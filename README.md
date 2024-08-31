@@ -37,6 +37,10 @@ User-empathetic landing page as a part of dashboard design
 Screenshot Description2:
 Data modelling involving 10+ tables
 
+Link to the live Dashboard https://shorturl.at/AQE0n
+
+
+
 
 
 
